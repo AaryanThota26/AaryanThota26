@@ -1,4 +1,4 @@
-<h1 align="center">Aaryan</h1>
+<h1 align="center">Aaryan T</h1>
 
 <p align="center">
   <i>Code. Learn. Build. Repeat.</i>
