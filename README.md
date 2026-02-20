@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Aaryan</h1>
 
-<!--
-**AaryanThota26/AaryanThota26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Leveling Up In
+
+- Data Structures & Algorithms
+- Machine Learning
+- Backend Development
+- System Design (slowly 😌)
+
+---
+
+### 🚀 What I’m Building
+
+- 📈 Stock Price Prediction Model
+- 🤖 Machine Learning Projects
+- 💻 DevOps Labs
+- 🔍 Problem Solving Skills (daily grind)
+
+---
+
+### 🛠 Weapons of Choice
+
+```cpp
+Languages: C | C++ | Python | JavaScript  
+Core: DSA | OOPS | ML Basics  
+Tools: Git | GitHub | Linux  
