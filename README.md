@@ -19,8 +19,7 @@
 
 - 📈 Stock Price Prediction Model
 - 🤖 Machine Learning Projects
-- 💻 DevOps Labs
-- 🔍 Problem Solving Skills (daily grind)
+-    Mari time vessel tracking 
 
 ---
 
